@@ -13,8 +13,11 @@ Dashboad :
 ===========
 1) only Task Mange (Add,read,update)
 
+   
+========================================================================================================================================================================================================
 
--------------------------------------------------------------------------------------------
+ => ** Note Point : ( Any user added to the user table with the phone number should be given to that phone number in the employee table. Because the user has their own dashboard extension )
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project :
 
@@ -22,4 +25,4 @@ Backend : Laravel
 
 Fontend: Vue.js
 
-Database : Phpmyadmin
+Database : PhpMyadmin
