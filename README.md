@@ -1,8 +1,6 @@
 The project (Task Manager):
 
-Admin(RoleId = 1): 
-
-Dashboad :
+Admin(RoleId = 1) Dashboad :
 ===========
 
 1) Eployee (Add,read,delete,update)
