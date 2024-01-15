@@ -26,3 +26,13 @@ Backend : Laravel
 Fontend: Vue.js
 
 Database : PhpMyadmin
+
+==============================================================================================================================================================
+
+When Project Start 
+command Line:
+
+1)composer Update
+2)npm install && npm run dev
+3)php artisn migrate
+4)php artisan db:seed
